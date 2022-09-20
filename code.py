@@ -1,6 +1,6 @@
 from button import make_button
 from buzzer_music import play_song
-from songs import aadams_family
+from songs.aadams_family import song as aadams_family
 import time
 import board
 
